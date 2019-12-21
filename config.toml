@@ -1,9 +1,9 @@
-baseurl = "https://www.ardianta.com"
-title = "Ardianta"
+baseurl = "https://www.myweb.com"
+title = "Naone"
 theme = "pargo"
 
-googleAnalytics = "UA-54154424-1"
-disqusShortname = "ardianta"
+googleAnalytics = ""
+disqusShortname = "blognawar"
 
 [permalinks]
   post = "/blog/:slug/"
@@ -11,10 +11,10 @@ disqusShortname = "ardianta"
 
 [params]
     # Site Author
-    author = "Dian"
+    author = ""
 
     # Description/subtitle for homepage
-    description = "Hello, saya Dian. Blog ini belum jadi. Sabar ya..."
+    description = "Hello, Blog ini belum jadi. Sabar ya..."
 
 
 [menu]
@@ -26,20 +26,20 @@ disqusShortname = "ardianta"
   [[menu.main]]
     identifier = "art"
     name = "Art"
-    url = "https://ardiantapargo.deviantart.com/"
+    url = "https://deviantart.com/"
     wight = 2
   [[menu.main]]
     identifier = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/ardiantapargo"
+    url = "https://twitter.com"
     wight = 3
   [[menu.main]]
     identifier = "github"
     name = "Github"
-    url = "https://github.com/ardianta"
+    url = "https://github.com"
     wight = 4
   [[menu.main]]
     identifier = "rss"
     name = "RSS"
-    url = "http://feeds.feedburner.com/ardianta"
+    url = "http://feeds.feedburner.com/"
     wight = 5
