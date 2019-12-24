@@ -24,22 +24,12 @@ disqusShortname = "blognawar"
     url = "/about/"
     wight = 1
   [[menu.main]]
-    identifier = "art"
-    name = "Art"
-    url = "https://deviantart.com/"
+    identifier = "works"
+    name = "Works"
+    url = "/works/"
     wight = 2
   [[menu.main]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com"
+    identifier = "tools"
+    name = "Tools"
+    url = "/tools/"
     wight = 3
-  [[menu.main]]
-    identifier = "github"
-    name = "Github"
-    url = "https://github.com"
-    wight = 4
-  [[menu.main]]
-    identifier = "rss"
-    name = "RSS"
-    url = "http://feeds.feedburner.com/"
-    wight = 5
