@@ -1,11 +1,11 @@
-## Ardianta Blog
+## BLOGNAWAR
 
-[![pipeline status](https://gitlab.com/ardianta/blog/badges/master/pipeline.svg)](https://gitlab.com/ardianta/blog/commits/master)
+[![pipeline status](https://gitlab.com/naone/blog/badges/master/pipeline.svg)](https://gitlab.com/naone/blog/commits/master)
 [![Hugo version](https://img.shields.io/badge/hugo-v0.55.4-ff69b4.svg)](http://gohugo.io/)
 
 This is my blog's source code. Sorry, I don't accept pull request, because
-this repository is [mirrored from Gitlab](https://gitlab.com/ardianta/blog/). But, feel free
-to [report any issue](https://github.com/ardianta/blog/issues).
+this repository is [mirrored from Gitlab](https://gitlab.com/naone/blog/). But, feel free
+to [report any issue](https://github.com/naone/blog/issues).
 
 ## Requirement
 
@@ -16,13 +16,13 @@ You need to install Hugo v0.55.4 to build and run this blog
 To read this blog locally, you need to clone this repository:
 
 ```bash
-git clone --depth 1 https://github.com/ardianta/blog.git ardianta-blog
+git clone --depth 1 https://github.com/blog/blog.git naone-blog
 ```
 
 Then run the hugo server:
 
 ```bash
-▶ cd ardianta-blog
+▶ cd naone-blog
 ▶ hugo server
 
 Started building sites ...
