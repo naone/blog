@@ -17,5 +17,5 @@ description: "Dulu saat SD pernah ikut lomba gambar tingkat kecamatan di acara 1
 
 Gambar dari pixabay.com:
 
-![pixabay.com](https://pixabay.com/photos/landscape-mountain-fog-sky-hiking-4708144/)
+![pixabay.com](https://cdn.pixabay.com/photo/2019/12/20/10/21/landscape-4708144_1280.jpg)
 
