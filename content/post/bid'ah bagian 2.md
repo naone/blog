@@ -1,7 +1,7 @@
 ---
 title: "Semua bid’ah adalah kesesatan (bagian 2)"
 slug: 2019
-date: 2019-01-02T18:39:53+08:00
+date: 2019-12-20T18:39:53+08:00
 draft: false
 
 type: post
