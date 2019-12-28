@@ -13,7 +13,7 @@ image: "/img/2017/goodreads-2018.png"
 description: "Semua bid’ah adalah kesesatannya."
 ---
 
-## Banyak hal yang menunjukan keumuman kaidah Nabi ini “Semua bid’ah adalah sesat”, diantaranya :
+### Banyak hal yang menunjukan keumuman kaidah Nabi ini “Semua bid’ah adalah sesat”, diantaranya :
 
 Pertama : Semua dalil yang menunjukan tercelanya bid’ah datang dalam bentuk mutlak dengan tanpa pengecualian sama sekali. Tidak ada satu dalilpun dalam syari’at yang menyatakan : “Semua bid’ah adalah sesat kecuali ini dan itu”. Jika ternyata tidak ada dalil sama sekali yang mengecualikan maka kita harus kembali kepada keumuman “Semua bid’ah adalah sesat” tanpa ada pengecualian.
 
