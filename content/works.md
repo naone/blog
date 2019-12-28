@@ -15,5 +15,5 @@ description: "Project yang pernah saya kerjakan dan yang sedang dikerjakan. Ada 
 
 Halaman ini berisi project yang pernah saya kerjakan dan yang sedang dikerjakan.
 Ada yang bersifat _side project_ dan ada juga yang serius. Untuk project *private*,
-saya tidak cantumkan di sini. Untuk project yang lainnya bisa ditemukan di [Github](https://github.com/ardianta).
+saya tidak cantumkan di sini. Untuk project yang lainnya bisa ditemukan di [Github](https://github.com/naone).
 
