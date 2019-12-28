@@ -6,24 +6,18 @@ draft: false
 
 type: page
 
-image: "/img/about-me.jpg"
-description: "Hello, Saya Dian. Salam kenal!"
+image: ""
+description: "Salam, Saya Nawar. Salam kenal!"
 ---
 
-![About Ardianta](/img/about-me.jpg)
+![About Nawar](https://cdn.pixabay.com/photo/2019/12/20/10/21/landscape-4708144_1280.jpg)
 
-Hello, nama saya **Ahmad Muhar Dian Lasmita**, disingkat ARDIANTA.
-Sering dipanggil **Dian** (di rumah) dan **Pargo** (di sekolah).
+Hello, nama saya **Adli Munawar**.
+Sering dipanggil **Nawar**.
 
-<!-- Pengguna GNU/Linux sejak tahun 2011 hingga saat ini. Sehari-hari menggunakan GNU/Linux untuk pemrograman, desain, dan menulis. -->
 
-Saat ini, saya adalah seorang mahasiswa Teknik Informatika di 
-salah satu perguruan tinggi swasta di kota Mataram.
-
-Pernah bersekolah di [SMK Negeri 2 Kuripan](http://www.smkn2kuripan.sch.id/) dengan jurusan TKJ
-(Teknik Komputer & Jaringan).
 
 Kontak yang bisa dihubungi:
 
-- Email: <a href="mailto:dian@petanikode.com">dian@petanikode.com</a>
-- WA/Telegram: +6287866866694
+- Email: <a href="mailto:naone.id@gmail.com">naone.id@gmail.com</a>
+- WA/Telegram: +6200000000
