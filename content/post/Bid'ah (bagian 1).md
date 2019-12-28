@@ -9,8 +9,8 @@ type: post
 tags:
     - tag
 
-image: "https://pixabay.com/photos/landscape-autumn-trees-fog-nature-4694558/"
-description: "Apa saja sih yang saya lakukan selama tahun 2018 dan apa saja yang sudah dicapai?"
+image: "https://cdn.pixabay.com/photo/2019/12/20/10/21/landscape-4708144_1280.jpg"
+description: 
 ---
 
 ![Bid'ah](/img/2018/eval/2018.png)
