@@ -1,7 +1,7 @@
 ---
 title: "Sederhana dalam beribadah"
 slug: Kajian
-date: 2018-10-11T21:17:26+08:00
+date: 2019-12-30T19:50:26+08:00
 draft: true
 
 type: post
