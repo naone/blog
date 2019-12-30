@@ -1,5 +1,5 @@
 ---
-title: "9 Buku yang Saya Borong Hari ini"
+title: "Sederhana dalam beribadah"
 slug: 9-buku
 date: 2018-10-11T21:17:26+08:00
 draft: true
