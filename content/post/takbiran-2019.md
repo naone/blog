@@ -2,7 +2,7 @@
 title: "Takbiran 2019: Mercon di mana-mana"
 slug: takbiran-2019
 date: 2019-06-05T22:00:00+08:00
-draft: false
+draft: true
 
 type: post
 
