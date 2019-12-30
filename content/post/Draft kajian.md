@@ -1,16 +1,16 @@
 ---
 title: "Sederhana dalam beribadah"
-slug: 9-buku
+slug: Kajian
 date: 2018-10-11T21:17:26+08:00
 draft: true
 
 type: post
 
 tags:
-    - buku
+    - kajian
 
 image: "/img/9buku/start-me-up.jpg"
-description: "Rencananya mau beli 1 atau 2 buku yang menerik untuk dibaca. Tetapi saya malah memborong 9 buku, karena bukunya murah. Namun ini bukan buku murahan."
+description: ""Draft Catatan kajian"
 ---
 
 ### Sederhana dalam beribadah.
