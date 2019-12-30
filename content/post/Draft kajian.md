@@ -13,8 +13,10 @@ image: "/img/9buku/start-me-up.jpg"
 description: "Rencananya mau beli 1 atau 2 buku yang menerik untuk dibaca. Tetapi saya malah memborong 9 buku, karena bukunya murah. Namun ini bukan buku murahan."
 ---
 
-### Tidak berlebih-lebihan dalam beribadah.
-- Meludah 3x kekiri bila mengantuk pada saat sholat.
+### Sederhana dalam beribadah.
+
+- Jangan memaksa sholat bila mengantuk dalam sholat malam.
+***Cara mengatasi kantuk dalam sholat yaitu dengan meludah 3x kekiri.***
 - Tidak melamakan bacaan pd sholat wajib.
 - Sholat yang sesuai dengan Sunnah.
 - sholat subuh paling panjang bacaannya antara 60 ayat.
@@ -22,4 +24,7 @@ description: "Rencananya mau beli 1 atau 2 buku yang menerik untuk dibaca. Tetap
 - sholat ashar setengah panjangnya dari sholat zuhur
 - sholat magrib dgn bacaan pendek
 - Sholat isya lebih pendek dari maggrib.
+- Tidak memperpanjang khutbah
+
+
 
