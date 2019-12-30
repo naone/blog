@@ -18,11 +18,11 @@ description: "Rencananya mau beli 1 atau 2 buku yang menerik untuk dibaca. Tetap
 - Jangan memaksa sholat bila mengantuk dalam sholat malam.
 ***Cara mengatasi kantuk dalam sholat yaitu dengan meludah 3x kekiri.***
 - Tidak melamakan bacaan pd sholat wajib.
-- Sholat yang sesuai dengan Sunnah.
-- sholat subuh paling panjang bacaannya antara 60 ayat.
+#### Sholat yang sesuai dengan Sunnah.
+- Sholat subuh paling panjang bacaannya antara 60 ayat.
 - Sholat yg paling panjang setelah sholat subuh antara 50 ayat.
-- sholat ashar setengah panjangnya dari sholat zuhur
-- sholat magrib dgn bacaan pendek
+- Sholat ashar setengah panjangnya dari sholat zuhur
+- Sholat magrib dgn bacaan pendek
 - Sholat isya lebih pendek dari maggrib.
 - Tidak memperpanjang khutbah
 
