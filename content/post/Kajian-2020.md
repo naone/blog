@@ -40,12 +40,16 @@ Hadist,1 Abdullah ibnu Umar,ra.
 
 
 Hadist 2, Aiysha, ra
- 
+ Dibangun rumah di dalam surga bila mengerjakan sholat Sunnah rawatib 12 raka'at.
 4 sebelum zuhur
 2 sesudah zuhur
 2 sesudah maggrib
 2 sesudah isya
 2 sebelumns subuh
+
+* Bagaimana seorang menjaga 12 raka'at sehari semalam?
+* Sholat sunah rawatib lebih utama dirumah.
+* 
 
 
 
