@@ -9,7 +9,7 @@ type: post
 tags:
     - buku
 
-image: "/img/buku/creative-writing.jpg"
+image: "http://drive.google.com/uc?export=view&id=1-2p4So8t5MpKPTF-UQoZP9lDIueLh2Y4"
 description: "Buku ini berisi tips dan panduan menulis karya fiksi. Diawali dengan fundamental cara menulis yang benar. Lalu diajari cara menulis plot, dialog, narasi, dan lain-lain."
 ---
 
