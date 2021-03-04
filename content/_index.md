@@ -5,7 +5,7 @@ draft: false
 
 type: page
 
-image: ""
+image: "https://cdn.pixabay.com/photo/2019/12/20/10/21/landscape-4708144_1280.jpg"
 description: "Blog ini adalah blog pribadi yang isinya berupa catatan Kajian."
 ---
 
