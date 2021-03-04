@@ -13,7 +13,7 @@ image: "http://drive.google.com/uc?export=view&id=1-2p4So8t5MpKPTF-UQoZP9lDIueLh
 description: 
 ---
 
-![Bid'ah](https://cdn.pixabay.com/photo/2019/12/20/10/21/landscape-4708144_1280.jpg)
+![Bid'ah](http://drive.google.com/uc?export=view&id=1-2p4So8t5MpKPTF-UQoZP9lDIueLh2Y4)
 
 ## Semua bid’ah adalah kesesatan
 
