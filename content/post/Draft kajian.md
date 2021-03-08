@@ -25,6 +25,3 @@ description: ""Draft Catatan kajian"
 - Sholat magrib dgn bacaan pendek
 - Sholat isya lebih pendek dari maggrib.
 - Tidak memperpanjang khutbah
-
-
-
